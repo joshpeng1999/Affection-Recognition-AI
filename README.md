@@ -10,4 +10,4 @@ The structure of the code consists of google collab file that contains 5 differe
 
 Each section will give a brief description of what will be happening if the cells are execute but keep in mind that running sections such as hyper parameter tuning could take around 3 hours to run.
 
-For the most part, our group completed all of the tasks that was stated in the proposal from the data collection, to training a Random Forest, to Evaluation. Some differences are that we also performed Hyper-parameter tuning as well as used precision and accuracy scores as our main metric.
+For the most part, our group completed all of the tasks that was stated in the proposal from the data collection, to training a Random Forest, to evaluation. Some differences are that we also performed Hyper-parameter tuning as well as used precision and accuracy scores as our main metric.
